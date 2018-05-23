@@ -158,7 +158,3 @@ class Compare(object):
         self.cmpFragment()
         self.cmpScheme()
         return self.score
-
-
-if __name__ == '__main__':
-    co = Compare()
